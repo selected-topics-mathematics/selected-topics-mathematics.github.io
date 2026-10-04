@@ -1,0 +1,444 @@
+<!doctype html>
+<html>
+
+
+<head>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+</head>
+<body style="background-color:#FFFAFA;">
+
+<table width="745" style="
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;">
+<td width=150; padding: 35px;>
+    <img height=145 src="seminar-logos\utd1.png" alt="logo">
+</td>
+<td width=150>
+    <img height=145 src="seminar-logos\uog1.png" alt="logo">
+</td>
+<td width=150>
+    <img height=145 src="seminar-logos\uol1.png" alt="logo">
+</td>
+<td width=150>
+    <img height=145 src="seminar-logos\tuw1.png" alt="logo">
+</td>
+<td width=150>
+    <img height=145 src="seminar-logos\wpi2.png" alt="logo">
+</td>
+</tr>
+</table>
+
+
+
+
+
+<table width="750"><tr><td>
+<tr>
+<td width=800>
+<div align="center"; style="font-size:2em;">
+    <strong>Seminar "Selected Topics in Mathematics"</strong> <br>
+</div> 
+<div align="center"; style="font-size:1.5em;">
+    <strong>Online edition</strong> <br>
+</div> 
+</font>
+</td>
+</tr>
+</table>
+
+
+<br>
+
+<table width=750 cellspacing=10 cellpadding=3>
+
+
+
+
+<tr bgcolor="#e0e0e0"><td>
+
+</td>
+</tr>
+
+
+
+
+
+
+<tr bgcolor="#e0e0e0"><td>
+<strong> Upcoming talks: </strong>
+</td>
+</tr>
+
+<tr bgcolor="#e0e0e0"><td>
+<strong> 09 Oct 2026 (Friday, 3pm BST) </strong>
+</td>
+</tr>
+
+
+<tr><td>
+<font size="4">
+<div align="center">
+<strong>
+Maxim Arnold
+</strong>
+UT Dallas
+<br>
+<br> 
+</div>
+</font>
+<br> <strong>Abstract.</strong> 
+<p style="margin-top: -0em;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;">
+	
+ <p>
+
+ </p>
+ <p>
+
+ </p>
+</td></tr>
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+
+	<tr bgcolor="#e0e0e0"><td>
+<strong> 16 Oct 2026 (Friday, 3pm BST) </strong>
+</td>
+</tr>
+
+
+<tr><td>
+<font size="4">
+<div align="center">
+<strong>
+Federico Accossato
+</strong>
+Politecnico di Torino
+<br>
+<br> 
+<br>
+</div>
+</font>
+
+
+
+
+<br> <strong>Abstract.</strong>
+<p style="margin-top: -0em;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;">
+	 <p>
+
+ </p>
+ <p>
+
+ </p>
+</td></tr>
+
+	<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+	<tr bgcolor="#e0e0e0"><td>
+<strong> 23 Oct 2026 (Friday, 3pm BST) </strong>
+</td>
+</tr>
+	<tr><td>
+<font size="4">
+<div align="center">
+<strong>
+ Alex Heaton
+</strong>
+
+<br>Lawrence University
+<br> 
+<br>
+</div>
+</font>
+
+
+
+
+<br> <strong>
+<p style="margin-top: -0em;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;">
+	
+ <p>
+
+ </p>
+ <p>
+
+ </p>
+</td></tr>
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+
+<tr bgcolor="#e0e0e0"><td>
+<strong> 30 Oct 2026 (Friday, 3pm UTC) </strong>
+</td>
+</tr>
+
+
+<tr><td>
+<font size="4">
+<div align="center">
+<strong>
+Siu Hang Man
+</strong>
+Charles University (Univerzita Karlova) 
+<br>
+<br> 
+<br>
+</div>
+</font>
+
+
+
+
+<br> <strong>Abstract.</strong>
+<p style="margin-top: -0em;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;">
+	<p>
+
+ </p>
+ <p>
+
+ </p>
+</td></tr>
+
+<tr bgcolor="#e0e0e0"><td>
+<strong> 06 Nov 2026 (Friday, 3pm UTC) </strong>
+</td>
+</tr>
+
+
+<tr><td>
+<font size="4">
+<div align="center">
+<strong>
+Sigrid Grepstad
+</strong>
+Norwegian University of Science and Technology
+<br>
+<br> 
+<br>
+</div>
+</font>
+
+
+<br>
+	<a href = "seminar-files/spring2026/Periodic-Somos.pdf"> Slides. </a
+
+<br> <strong>Abstract.</strong> 
+	<p style="margin-top: -0em;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;">
+	
+ 
+ <p>
+
+ </p>
+ <p>
+
+ </p>
+</td></tr>
+
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+	
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+
+
+
+<tr bgcolor="#e0e0e0"><td>
+<strong> 13 Nov 2026 (Friday, 3pm UTC) </strong>
+</td>
+</tr>
+
+
+<tr><td>
+<font size="4">
+<div align="center">
+<strong>
+  Noy Soffer Aranov
+</strong>
+TU Graz
+<br>
+<br> 
+<br>
+</div>
+</font>
+
+
+<br><iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="17.04.2026 Maciej Denkowski" src="https://liverpool.instructuremedia.com/embed/47224624-1340-4c04-9f9a-00832a2bd225" frameborder="0"></iframe>
+<br>
+<a href = "seminar-files/spring2026/Liverpool-1.pdf"> Slides. </a>
+<br> <strong>Abstract.</strong>
+<p style="margin-top: -0em;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;">
+	
+ <p>
+
+ </p>
+ <p>
+
+ </p>
+</td></tr>
+
+	<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+
+<tr bgcolor="#e0e0e0"><td>
+<strong> 20 Nov 2026 (Friday, 3pm UTC) </strong>
+</td>
+</tr>
+
+
+<tr><td>
+<font size="4">
+<div align="center">
+<strong>
+TBA
+</strong>
+TBA
+<br>
+<br> 
+<br>
+</div>
+</font>
+
+
+
+
+<br> <strong>Abstract.</strong>
+<p style="margin-top: -0em;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;">
+ <p>
+
+ </p>
+ <p>
+
+ </p>
+</td></tr>
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+
+<tr bgcolor="#e0e0e0"><td>
+<strong> 27 Nov 2026 (Friday, 3pm UTC) </strong>
+</td>
+</tr>
+
+
+<tr><td>
+<font size="4">
+<div align="center">
+<strong>
+TBA
+</strong>
+TBA
+<br>
+<br> 
+<br>
+</div>
+</font>
+
+
+
+
+<br> <strong>Abstract.</strong>
+<p style="margin-top: -0em;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;">
+	 <p>
+
+ </p>
+ <p>
+
+ </p>
+</td></tr>
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+	<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+
+<tr bgcolor="#e0e0e0"><td>
+<strong> 04 Dec 2026 (Friday 3pm, UCT) </strong>
+</td>
+</tr>
+
+
+<tr><td>
+<font size="4">
+<div align="center">
+<strong>
+TBA
+</strong>
+TBA
+<br>
+<br> 
+<br>
+</div>
+</font>
+
+
+
+
+<br> <strong>Abstract.</strong>
+<p style="margin-top: -0em;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;">
+	 <p>
+
+ </p>
+ <p>
+
+ </p>
+</td></tr>
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+	<tr bgcolor="#e0e0e0"><td>
+<strong>  11 Dec 2026 (Friday 3pm, UCT)  </strong>
+</td>
+</tr>
+
+
+<tr><td>
+<font size="4">
+<div align="center">
+<strong>
+
+</strong>
+University of Liverpool
+<br>
+<br> 
+<br>
+</div>
+</font>
+
+
+
+<tr bgcolor="#e0e0e0"><td>
+<font size="-1">Go to the <a href="index.html"> main page</a>.</font>
+</tr></td>
+</table>
+</BODY>
+</HTML>
